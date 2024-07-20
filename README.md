@@ -1,6 +1,6 @@
 # Refer & Earn Backend APIs
 
-Live Link: https://accredian-backend-task-7vpn.onrender.com
+Live Link: http://accredian-env.eba-kip3ckce.us-east-1.elasticbeanstalk.com/api/referrals
 
 ## Requirements
 
